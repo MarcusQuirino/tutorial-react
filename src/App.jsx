@@ -1,9 +1,9 @@
 function App() {
   return (
     <>
-      <h1 className="text-red-500">tutorial react</h1>
+      <h1 className='text-red-500'>tutorial react</h1>
     </>
-  );
+  )
 }
 
-export default App;
+export default App
